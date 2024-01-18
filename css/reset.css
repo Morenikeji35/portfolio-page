@@ -1,1 +1,7 @@
 /* Base styles */
+h2 {
+  color: red;
+}
+section {
+  display: flex;
+}
